@@ -14,7 +14,7 @@ The page is responsive and built using HTML, CSS, Bootstrap, and Chart.js.
 
 ## Live Demo
 
-🔗 Link: (Will be added after deployment)
+🔗 Link: cancer-donation-dashboard.netlify.app
 
 ---
 
